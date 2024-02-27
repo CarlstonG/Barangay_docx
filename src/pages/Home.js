@@ -9,7 +9,7 @@ export default function Home() {
           <div className="grid grid-cols-1 gap-5 md:grid-cols-2 md:place-items-center md:gap-10 lg:gap-20">
             <article>
               <h1 className="text-slate-700 mb-5 text-4xl md:text-5xl font-bold text-center md:text-left">
-                Create invoices with Invoicer
+              Barangay Invoicer and Document Records
               </h1>
               <article className="md:hidden">
                 <img
